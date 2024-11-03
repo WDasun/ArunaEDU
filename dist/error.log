@@ -1,0 +1,7 @@
+java.lang.IndexOutOfBoundsException: Index: 0, Size: 0
+	at java.util.ArrayList.rangeCheck(Unknown Source)
+	at java.util.ArrayList.get(Unknown Source)
+	at com.arunaedu.main.Main.setTopics(Main.java:1836)
+	at com.arunaedu.main.Main.<init>(Main.java:59)
+	at com.arunaedu.main.Login$4.run(Login.java:252)
+	at java.lang.Thread.run(Unknown Source)
