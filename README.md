@@ -2,9 +2,9 @@
 ArunaEDU is a standalone application for desktop, designed as a comprehensive management system for private classes. Built with Java 1.8 and MySQL 8, this application provides a suite of features for efficiently managing academic, student, lecturer, and system functions in an educational environment.
 
 ## Features
-###1. Admin Dashboard
+### 1. Admin Dashboard
 A centralized interface for administrators to oversee and manage all system modules.
-###2. Academic Management
+### 2. Academic Management
 Subject Management: Create, update, and manage subjects.
 Class Management: Organize and schedule classes.
 Event Scheduling: Set up and manage events like exams and assignments.
